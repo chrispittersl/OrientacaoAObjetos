@@ -10,7 +10,7 @@ public class Pessoa {
 	protected void respirar() {
 		JOptionPane.showMessageDialog(null,"Respirando");
 	}
-	private void dormir() {// Este mÈtodo sÛ ser· utilizado dentro desta classe, pois ese mÈtodo È private(privado)
+	private void dormir() {// Este m√©todo s√≥ ser√° utilizado dentro desta classe, pois esse m√©todo √© private(privado)
 		JOptionPane.showMessageDialog(null,"Dormindo");
 	}
 
